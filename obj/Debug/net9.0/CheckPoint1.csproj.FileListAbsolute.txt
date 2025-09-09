@@ -1,0 +1,14 @@
+C:\Users\Suporte10\source\FIAP-main\FIAP-main\3ESPR\CheckPoint1SLN\bin\Debug\net9.0\CheckPoint1.exe
+C:\Users\Suporte10\source\FIAP-main\FIAP-main\3ESPR\CheckPoint1SLN\bin\Debug\net9.0\CheckPoint1.deps.json
+C:\Users\Suporte10\source\FIAP-main\FIAP-main\3ESPR\CheckPoint1SLN\bin\Debug\net9.0\CheckPoint1.runtimeconfig.json
+C:\Users\Suporte10\source\FIAP-main\FIAP-main\3ESPR\CheckPoint1SLN\bin\Debug\net9.0\CheckPoint1.dll
+C:\Users\Suporte10\source\FIAP-main\FIAP-main\3ESPR\CheckPoint1SLN\bin\Debug\net9.0\CheckPoint1.pdb
+C:\Users\Suporte10\source\FIAP-main\FIAP-main\3ESPR\CheckPoint1SLN\obj\Debug\net9.0\CheckPoint1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte10\source\FIAP-main\FIAP-main\3ESPR\CheckPoint1SLN\obj\Debug\net9.0\CheckPoint1.AssemblyInfoInputs.cache
+C:\Users\Suporte10\source\FIAP-main\FIAP-main\3ESPR\CheckPoint1SLN\obj\Debug\net9.0\CheckPoint1.AssemblyInfo.cs
+C:\Users\Suporte10\source\FIAP-main\FIAP-main\3ESPR\CheckPoint1SLN\obj\Debug\net9.0\CheckPoint1.csproj.CoreCompileInputs.cache
+C:\Users\Suporte10\source\FIAP-main\FIAP-main\3ESPR\CheckPoint1SLN\obj\Debug\net9.0\CheckPoint1.dll
+C:\Users\Suporte10\source\FIAP-main\FIAP-main\3ESPR\CheckPoint1SLN\obj\Debug\net9.0\refint\CheckPoint1.dll
+C:\Users\Suporte10\source\FIAP-main\FIAP-main\3ESPR\CheckPoint1SLN\obj\Debug\net9.0\CheckPoint1.pdb
+C:\Users\Suporte10\source\FIAP-main\FIAP-main\3ESPR\CheckPoint1SLN\obj\Debug\net9.0\CheckPoint1.genruntimeconfig.cache
+C:\Users\Suporte10\source\FIAP-main\FIAP-main\3ESPR\CheckPoint1SLN\obj\Debug\net9.0\ref\CheckPoint1.dll
