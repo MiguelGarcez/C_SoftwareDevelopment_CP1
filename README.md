@@ -1,5 +1,3 @@
-# C_SoftwareDevelopment_CP1
-
 # Checkpoint 1 - Fundamentos C#
 
 ## Informações
